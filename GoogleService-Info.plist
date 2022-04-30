@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>541781692478-bg1uhbcscahodjp7opifn521124fk4jq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.541781692478-bg1uhbcscahodjp7opifn521124fk4jq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHi7EOsyIJHuhLe2zAkuM9HaacPqljH98</string>
+	<key>GCM_SENDER_ID</key>
+	<string>541781692478</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iROID.StayHopper</string>
+	<key>PROJECT_ID</key>
+	<string>stayhopper-1538390301630</string>
+	<key>STORAGE_BUCKET</key>
+	<string>stayhopper-1538390301630.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:541781692478:ios:653724baeb9d8ddf</string>
+	<key>DATABASE_URL</key>
+	<string>https://stayhopper-1538390301630.firebaseio.com</string>
+</dict>
+</plist>
